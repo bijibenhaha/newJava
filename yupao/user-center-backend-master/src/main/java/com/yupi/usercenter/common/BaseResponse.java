@@ -42,6 +42,7 @@ public class BaseResponse<T> implements Serializable {
     }
 
     public BaseResponse(int code, T data, String message) {
+        // 构造函数链，调用上面的构造函数，this指代当前创造的对象
         this(code, data, message, "");
     }
 
