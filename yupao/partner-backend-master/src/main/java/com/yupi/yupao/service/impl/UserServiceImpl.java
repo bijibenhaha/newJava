@@ -321,18 +321,25 @@ public class UserServiceImpl extends ServiceImpl<UserMapper, User>
      * @param tagNameList 用户要拥有的标签
      * @return
      */
+
     @Deprecated
     private List<User> searchUsersByTagsBySQL(List<String> tagNameList) {
         if (CollectionUtils.isEmpty(tagNameList)) {
             throw new BusinessException(ErrorCode.PARAMS_ERROR);
         }
+        System.out.println("-------");
+        // 测试查询时间
+        long begin = System.currentTimeMillis();
         QueryWrapper<User> queryWrapper = new QueryWrapper<>();
-        // 拼接 and 查询
+        // QueryWrapper 拼接 and 查询
         // like '%Java%' and like '%Python%'
         for (String tagName : tagNameList) {
             queryWrapper = queryWrapper.like("tags", tagName);
         }
         List<User> userList = userMapper.selectList(queryWrapper);
+        long end = System.currentTimeMillis();
+        System.out.println("查询时间："+(end - begin));
+        System.out.println("-------");
         return userList.stream().map(this::getSafetyUser).collect(Collectors.toList());
     }
 

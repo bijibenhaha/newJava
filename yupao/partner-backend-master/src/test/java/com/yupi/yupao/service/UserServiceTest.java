@@ -101,4 +101,9 @@ public class UserServiceTest {
         List<User> userList = userService.searchUsersByTags(tagNameList);
         Assert.assertNotNull(userList);
     }
+
+    public void test01(){
+
+    }
+
 }
