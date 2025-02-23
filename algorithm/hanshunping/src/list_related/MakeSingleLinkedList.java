@@ -33,12 +33,27 @@ public class MakeSingleLinkedList {
         list.delete(node5);
         list.showList();
 
+        System.out.printf("------------------\n");
+        int length = list.getLength();
+        System.out.printf("the length of the list is " + length+"\n");
+
+        //  反转
+        System.out.printf("------------------\n");
+        StandardNode head = list.getHead();
+        list.reverseList(head);
+        list.showList();
+
+
     }
 }
 
 
 class SingleLinkedList{
     private StandardNode head = new StandardNode(0,"","");
+
+    public StandardNode getHead() {
+        return head;
+    }
 
     // 添加数据
     public void addNode(StandardNode node){
@@ -58,7 +73,6 @@ class SingleLinkedList{
         if (head.next == null){
             System.out.println("该链表无元素");
         }
-
         StandardNode temp = head.next;
         while (true){
             System.out.println(temp);
@@ -67,9 +81,6 @@ class SingleLinkedList{
             }
             temp = temp.next;
         }
-
-
-
     }
 
 
@@ -155,6 +166,48 @@ class SingleLinkedList{
         }else {
             System.out.printf("there is no addr found\n");
         }
+
+    }
+
+    // 有效 节点的个数
+    public int getLength(){
+        if (head.next == null){
+            return 0;
+        }
+
+        int length = 0;
+        StandardNode temp = head.next;
+        while (true){
+            length++;
+            if (temp.next == null){
+                break;
+            }
+            temp = temp.next;
+        }
+        return length;
+    }
+
+    // 反转单链表，用一个临时的头指针 作为辅助
+    public void reverseList(StandardNode head){
+        // 如果 head引导的链表为空 或 节点数量为1，则直接返回
+        if (head.next == null || head.next.next == null){
+            return;
+        }
+
+        StandardNode newHead = new StandardNode(0);
+        // 遍历 head 引导的链表，利用头插法插入newHead引导的链表
+        // 定义两个辅助变量,temp 指向 要被插入的节点，next 指向 下一个被插入的节点
+        StandardNode cur = head.next;
+        StandardNode next;
+        while (cur != null){
+            next =cur.next;
+            // 头插法
+            cur.next = newHead.next;
+            newHead.next = cur;
+
+            cur = next;
+        }
+        head.next = newHead.next;
 
     }
 
