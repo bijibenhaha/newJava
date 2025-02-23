@@ -6,12 +6,21 @@ package list_related;
 public class MakeSingleLinkedList {
     public static void main(String[] args) {
         SingleLinkedList list = new SingleLinkedList();
+//        StandardNode node = new StandardNode(1, "john", "天才");
+//        StandardNode node1 = new StandardNode(2, "mike", "傻子");
+//        StandardNode node2 = new StandardNode(3, "marry", "一般");
+//        list.addNode(node);
+//        list.addNode(node1);
+//        list.addNode(node2);
+//        list.showList();
+
+//      按顺序添加
         StandardNode node = new StandardNode(1, "john", "天才");
         StandardNode node1 = new StandardNode(2, "mike", "傻子");
-        StandardNode node2 = new StandardNode(3, "marry", "一般");
-        list.addNode(node);
-        list.addNode(node1);
-        list.addNode(node2);
+        StandardNode node2 = new StandardNode(2, "marry", "一般");
+        list.addNodeByOrder(node);
+        list.addNodeByOrder(node1);
+        list.addNodeByOrder(node2);
         list.showList();
 
     }
@@ -55,16 +64,29 @@ class SingleLinkedList{
     // 根据 addr顺序添加数据, 并且 如果addr相同，不添加
     public void addNodeByOrder(StandardNode node){
         StandardNode newNode = new StandardNode(node.getAddr(),node.getName(),node.getNickname());
-        // 找到链表中最后一个元素
+        // 找到链表中元素添加地方的前一个元素
         StandardNode temp = head;
+        boolean flag = false;
         while (true){
             if (temp.next == null){
                 break;
             }
+            if (temp.next.getAddr() == newNode.addr){
+                flag = true;
+                break;
+            }
+            if (newNode.getAddr() < temp.next.getAddr()) {
+                break;
+            }
             temp = temp.next;
         }
-        // 在最后一个元素后添加
-        temp.next = newNode;
+        // 在temp后添加
+        if (flag){
+            System.out.printf("what you want to add has already in the list\n");
+        }else {
+            newNode.next = temp.next;
+            temp.next = newNode;
+        }
     }
 
 
