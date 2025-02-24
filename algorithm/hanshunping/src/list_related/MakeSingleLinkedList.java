@@ -1,5 +1,8 @@
 package list_related;
 
+import javax.swing.plaf.nimbus.AbstractRegionPainter;
+import java.util.Stack;
+
 /**
  * 单向链表的实现
  */
@@ -38,10 +41,13 @@ public class MakeSingleLinkedList {
         System.out.printf("the length of the list is " + length+"\n");
 
         //  反转
-        System.out.printf("------------------\n");
-        StandardNode head = list.getHead();
-        list.reverseList(head);
-        list.showList();
+//        System.out.printf("------------------\n");
+//        StandardNode head = list.getHead();
+//        list.reverseList(head);
+//        list.showList();
+
+        // 逆序遍历
+        list.reverseShowList();
 
 
     }
@@ -208,6 +214,26 @@ class SingleLinkedList{
             cur = next;
         }
         head.next = newHead.next;
+
+    }
+
+    // 逆序遍历
+    public void reverseShowList(){
+        // 使用 栈 做辅助
+        if (head.next == null){
+            System.out.println("the list is null");
+            return;
+        }
+        Stack<StandardNode> stack = new Stack<>();
+        StandardNode temp = head.next;
+        while (temp != null){
+            stack.add(temp);
+            temp = temp.next;
+        }
+        while (stack.size() > 0){
+            System.out.println(stack.pop());
+        }
+
 
     }
 
