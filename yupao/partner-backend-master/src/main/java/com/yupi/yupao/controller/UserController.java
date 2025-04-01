@@ -11,6 +11,7 @@ import com.yupi.yupao.model.request.UserLoginRequest;
 import com.yupi.yupao.model.request.UserRegisterRequest;
 import com.yupi.yupao.model.vo.UserVO;
 import com.yupi.yupao.service.UserService;
+import io.swagger.annotations.ApiOperation;
 import lombok.extern.slf4j.Slf4j;
 import org.apache.commons.lang3.StringUtils;
 import org.springframework.data.redis.core.RedisTemplate;
@@ -34,6 +35,7 @@ import static com.yupi.yupao.constant.UserConstant.USER_LOGIN_STATE;
  */
 @RestController
 @RequestMapping("/user")
+// 跨域，允许前端 跨域http://localhost:3000 发请求过来
 @CrossOrigin(origins = {"http://localhost:3000"})
 @Slf4j
 public class UserController {
@@ -116,7 +118,8 @@ public class UserController {
         if (CollectionUtils.isEmpty(tagNameList)) {
             throw new BusinessException(ErrorCode.PARAMS_ERROR);
         }
-        List<User> userList = userService.searchUsersByTags(tagNameList);
+//        List<User> userList = userService.searchUsersByTags(tagNameList);
+        List<User> userList = userService.searchUsersByTagsBySQL(tagNameList);
         return ResultUtils.success(userList);
     }
 
@@ -175,6 +178,7 @@ public class UserController {
      * @return
      */
     @GetMapping("/match")
+    @ApiOperation("匹配用户")
     public BaseResponse<List<User>> matchUsers(long num, HttpServletRequest request) {
         if (num <= 0 || num > 20) {
             throw new BusinessException(ErrorCode.PARAMS_ERROR);

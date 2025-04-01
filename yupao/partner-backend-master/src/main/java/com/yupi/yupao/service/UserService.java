@@ -97,4 +97,12 @@ public interface UserService extends IService<User> {
      * @return
      */
     List<User> matchUsers(long num, User loginUser);
+
+    /**
+     * 根据标签搜索用户（SQL 查询版）
+     *
+     * @param tagNameList 用户要拥有的标签
+     * @return
+     */
+    List<User> searchUsersByTagsBySQL(List<String> tagNameList);
 }

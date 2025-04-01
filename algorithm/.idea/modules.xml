@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/algorithm.iml" filepath="$PROJECT_DIR$/algorithm.iml" />
       <module fileurl="file://$PROJECT_DIR$/hanshunping/hanshunping.iml" filepath="$PROJECT_DIR$/hanshunping/hanshunping.iml" />
+      <module fileurl="file://$PROJECT_DIR$/niuke/niuke.iml" filepath="$PROJECT_DIR$/niuke/niuke.iml" />
     </modules>
   </component>
 </project>
