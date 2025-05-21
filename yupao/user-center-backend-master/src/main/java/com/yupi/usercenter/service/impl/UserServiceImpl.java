@@ -64,7 +64,7 @@ public class UserServiceImpl extends ServiceImpl<UserMapper, User>
         if (planetCode.length() > 5) {
             throw new BusinessException(ErrorCode.PARAMS_ERROR, "星球编号过长");
         }
-        // 账户不能包含特殊字符
+        // **账户不能包含特殊字符
         String validPattern = "[`~!@#$%^&*()+=|{}':;',\\\\[\\\\].<>/?~！@#￥%……&*（）——+|{}【】‘；：”“’。，、？]";
         Matcher matcher = Pattern.compile(validPattern).matcher(userAccount);
         if (matcher.find()) {
