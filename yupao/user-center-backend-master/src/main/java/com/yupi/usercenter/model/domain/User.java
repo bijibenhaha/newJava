@@ -8,9 +8,6 @@ import java.util.Date;
 
 /**
  * 用户实体
- *
- * @author <a href="https://github.com/liyupi">程序员鱼皮</a>
- * @from <a href="https://yupi.icu">编程导航知识星球</a>
  */
 @TableName(value = "user")
 @Data
@@ -67,7 +64,7 @@ public class User implements Serializable {
     private Date createTime;
 
     /**
-     *
+     * 更新时间
      */
     private Date updateTime;
 
@@ -87,10 +84,7 @@ public class User implements Serializable {
      */
     private String planetCode;
 
-    // https://github.com/liyupi
-
     @TableField(exist = false)
     private static final long serialVersionUID = 1L;
 }
 
-// [加入编程导航](https://yupi.icu) 深耕编程提升【两年半】、国内净值【最高】的编程社群、用心服务【20000+】求学者、帮你自学编程【不走弯路】
