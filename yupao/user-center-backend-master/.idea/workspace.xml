@@ -1,0 +1,1044 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e60bba76-2794-4c3a-ad53-5d45407b54bf" name="Changes" comment="日常修改">
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/.eslintignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/.eslintrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/.prettierignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/.prettierrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/config/config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/config/defaultSettings.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/config/oneapi.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/config/proxy.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/config/routes.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/jest.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/jsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/mock/analysis.mock.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/mock/listTableList.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/mock/monitor.mock.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/mock/notices.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/mock/requestRecord.mock.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/mock/route.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/mock/user.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/mock/workplace.mock.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/pnpm-lock.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/public/CNAME" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/public/icons/icon-128x128.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/public/icons/icon-192x192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/public/icons/icon-512x512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/public/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/public/pro_icon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/public/scripts/loading.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/access.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/app.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/components/Footer/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/components/HeaderDropdown/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/components/RightContent/AvatarDropdown.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/components/RightContent/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/components/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/global.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/global.style.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/global.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/locales/bn-BD.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/locales/bn-BD/component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/locales/bn-BD/globalHeader.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/locales/bn-BD/menu.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/locales/bn-BD/pages.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/locales/bn-BD/pwa.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/locales/bn-BD/settingDrawer.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/locales/bn-BD/settings.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/locales/en-US.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/locales/en-US/component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/locales/en-US/globalHeader.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/locales/en-US/menu.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/locales/en-US/pages.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/locales/en-US/pwa.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/locales/en-US/settingDrawer.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/locales/en-US/settings.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/locales/fa-IR.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/locales/fa-IR/component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/locales/fa-IR/globalHeader.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/locales/fa-IR/menu.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/locales/fa-IR/pages.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/locales/fa-IR/pwa.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/locales/fa-IR/settingDrawer.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/locales/fa-IR/settings.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/locales/id-ID.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/locales/id-ID/component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/locales/id-ID/globalHeader.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/locales/id-ID/menu.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/locales/id-ID/pages.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/locales/id-ID/pwa.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/locales/id-ID/settingDrawer.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/locales/id-ID/settings.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/locales/ja-JP.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/locales/ja-JP/component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/locales/ja-JP/globalHeader.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/locales/ja-JP/menu.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/locales/ja-JP/pages.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/locales/ja-JP/pwa.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/locales/ja-JP/settingDrawer.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/locales/ja-JP/settings.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/locales/pt-BR.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/locales/pt-BR/component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/locales/pt-BR/globalHeader.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/locales/pt-BR/menu.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/locales/pt-BR/pages.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/locales/pt-BR/pwa.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/locales/pt-BR/settingDrawer.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/locales/pt-BR/settings.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/locales/zh-CN.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/locales/zh-CN/component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/locales/zh-CN/globalHeader.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/locales/zh-CN/menu.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/locales/zh-CN/pages.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/locales/zh-CN/pwa.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/locales/zh-CN/settingDrawer.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/locales/zh-CN/settings.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/locales/zh-TW.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/locales/zh-TW/component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/locales/zh-TW/globalHeader.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/locales/zh-TW/menu.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/locales/zh-TW/pages.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/locales/zh-TW/pwa.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/locales/zh-TW/settingDrawer.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/locales/zh-TW/settings.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/404.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/Admin.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/Welcome.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/account/center/Center.style.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/account/center/_mock.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/account/center/components/Applications/index.style.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/account/center/components/Applications/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/account/center/components/ArticleListContent/index.style.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/account/center/components/ArticleListContent/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/account/center/components/Articles/index.style.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/account/center/components/Articles/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/account/center/components/AvatarList/index.style.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/account/center/components/AvatarList/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/account/center/components/Projects/index.style.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/account/center/components/Projects/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/account/center/data.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/account/center/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/account/center/service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/account/settings/_mock.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/account/settings/components/PhoneView.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/account/settings/components/base.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/account/settings/components/binding.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/account/settings/components/index.style.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/account/settings/components/notification.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/account/settings/components/security.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/account/settings/data.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/account/settings/geographic/city.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/account/settings/geographic/province.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/account/settings/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/account/settings/service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/account/settings/style.style.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/dashboard/analysis/_mock.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/dashboard/analysis/components/Charts/ChartCard/index.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/dashboard/analysis/components/Charts/ChartCard/index.style.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/dashboard/analysis/components/Charts/ChartCard/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/dashboard/analysis/components/Charts/Field/index.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/dashboard/analysis/components/Charts/Field/index.style.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/dashboard/analysis/components/Charts/Field/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/dashboard/analysis/components/Charts/MiniProgress/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/dashboard/analysis/components/Charts/WaterWave/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/dashboard/analysis/components/Charts/index.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/dashboard/analysis/components/Charts/index.style.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/dashboard/analysis/components/Charts/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/dashboard/analysis/components/IntroduceRow.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/dashboard/analysis/components/NumberInfo/index.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/dashboard/analysis/components/NumberInfo/index.style.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/dashboard/analysis/components/NumberInfo/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/dashboard/analysis/components/OfflineData.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/dashboard/analysis/components/PageLoading/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/dashboard/analysis/components/ProportionSales.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/dashboard/analysis/components/SalesCard.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/dashboard/analysis/components/TopSearch.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/dashboard/analysis/components/Trend/index.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/dashboard/analysis/components/Trend/index.style.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/dashboard/analysis/components/Trend/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/dashboard/analysis/data.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/dashboard/analysis/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/dashboard/analysis/service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/dashboard/analysis/style.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/dashboard/analysis/style.style.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/dashboard/analysis/utils/Yuan.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/dashboard/analysis/utils/utils.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/dashboard/monitor/_mock.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/dashboard/monitor/components/ActiveChart/index.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/dashboard/monitor/components/ActiveChart/index.style.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/dashboard/monitor/components/ActiveChart/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/dashboard/monitor/components/Charts/WaterWave/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/dashboard/monitor/components/Charts/autoHeight.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/dashboard/monitor/components/Map/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/dashboard/monitor/data.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/dashboard/monitor/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/dashboard/monitor/service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/dashboard/monitor/style.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/dashboard/monitor/style.style.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/dashboard/workplace/_mock.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/dashboard/workplace/components/EditableLinkGroup/index.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/dashboard/workplace/components/EditableLinkGroup/index.style.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/dashboard/workplace/components/EditableLinkGroup/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/dashboard/workplace/data.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/dashboard/workplace/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/dashboard/workplace/service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/dashboard/workplace/style.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/dashboard/workplace/style.style.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/exception/403/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/exception/404/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/exception/500/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/form/advanced-form/_mock.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/form/advanced-form/components/TableForm.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/form/advanced-form/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/form/advanced-form/service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/form/advanced-form/style.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/form/advanced-form/style.style.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/form/basic-form/_mock.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/form/basic-form/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/form/basic-form/service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/form/basic-form/style.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/form/basic-form/style.style.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/form/step-form/_mock.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/form/step-form/data.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/form/step-form/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/form/step-form/service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/form/step-form/style.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/form/step-form/style.style.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/list/basic-list/_mock.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/list/basic-list/components/OperationModal.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/list/basic-list/data.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/list/basic-list/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/list/basic-list/service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/list/basic-list/style.style.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/list/basic-list/utils/utils.style.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/list/card-list/_mock.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/list/card-list/data.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/list/card-list/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/list/card-list/service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/list/card-list/style.style.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/list/card-list/utils/utils.style.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/list/mock/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/list/search/applications/_mock.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/list/search/applications/components/StandardFormRow/index.style.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/list/search/applications/components/StandardFormRow/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/list/search/applications/components/TagSelect/index.style.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/list/search/applications/components/TagSelect/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/list/search/applications/data.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/list/search/applications/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/list/search/applications/service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/list/search/applications/style.style.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/list/search/applications/utils/utils.style.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/list/search/articles/_mock.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/list/search/articles/components/ArticleListContent/index.style.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/list/search/articles/components/ArticleListContent/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/list/search/articles/components/StandardFormRow/index.style.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/list/search/articles/components/StandardFormRow/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/list/search/articles/components/TagSelect/index.style.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/list/search/articles/components/TagSelect/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/list/search/articles/data.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/list/search/articles/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/list/search/articles/service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/list/search/articles/style.style.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/list/search/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/list/search/projects/_mock.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/list/search/projects/components/AvatarList/index.style.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/list/search/projects/components/AvatarList/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/list/search/projects/components/StandardFormRow/index.style.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/list/search/projects/components/StandardFormRow/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/list/search/projects/components/TagSelect/index.style.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/list/search/projects/components/TagSelect/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/list/search/projects/data.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/list/search/projects/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/list/search/projects/service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/list/search/projects/style.style.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/list/table-list/_mock.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/list/table-list/components/CreateForm.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/list/table-list/components/UpdateForm.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/list/table-list/data.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/list/table-list/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/list/table-list/service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/profile/advanced/_mock.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/profile/advanced/data.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/profile/advanced/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/profile/advanced/service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/profile/advanced/style.style.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/profile/basic/_mock.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/profile/basic/data.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/profile/basic/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/profile/basic/service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/profile/basic/style.style.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/result/fail/index.style.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/result/fail/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/result/success/index.style.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/result/success/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/table-list/components/CreateForm.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/table-list/components/UpdateForm.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/table-list/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/user/login/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/user/login/login.test.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/user/register-result/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/user/register-result/style.style.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/user/register/_mock.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/user/register/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/user/register/service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/pages/user/register/style.style.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/requestErrorConfig.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/service-worker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/services/ant-design-pro/api.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/services/ant-design-pro/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/services/ant-design-pro/login.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/services/ant-design-pro/typings.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/services/swagger/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/services/swagger/pet.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/services/swagger/store.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/services/swagger/typings.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/services/swagger/user.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/src/typings.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/tests/setupTests.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/types/cache/cache.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/types/cache/login.cache.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/types/cache/mock/login.mock.cache.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/types/cache/mock/mock.cache.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-complete/types/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/.eslintignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/.eslintrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/.husky/commit-msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/.husky/pre-commit" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/.prettierignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/.prettierrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/config/config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/config/defaultSettings.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/config/oneapi.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/config/proxy.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/config/routes.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/jest.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/jsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/mock/listTableList.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/mock/notices.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/mock/requestRecord.mock.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/mock/route.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/mock/user.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/pnpm-lock.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/public/CNAME" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/public/icons/icon-128x128.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/public/icons/icon-192x192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/public/icons/icon-512x512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/public/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/public/pro_icon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/public/scripts/loading.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/src/access.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/src/app.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/src/components/Footer/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/src/components/HeaderDropdown/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/src/components/RightContent/AvatarDropdown.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/src/components/RightContent/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/src/components/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/src/global.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/src/global.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/src/locales/bn-BD.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/src/locales/bn-BD/component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/src/locales/bn-BD/globalHeader.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/src/locales/bn-BD/menu.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/src/locales/bn-BD/pages.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/src/locales/bn-BD/pwa.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/src/locales/bn-BD/settingDrawer.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/src/locales/bn-BD/settings.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/src/locales/en-US.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/src/locales/en-US/component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/src/locales/en-US/globalHeader.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/src/locales/en-US/menu.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/src/locales/en-US/pages.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/src/locales/en-US/pwa.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/src/locales/en-US/settingDrawer.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/src/locales/en-US/settings.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/src/locales/fa-IR.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/src/locales/fa-IR/component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/src/locales/fa-IR/globalHeader.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/src/locales/fa-IR/menu.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/src/locales/fa-IR/pages.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/src/locales/fa-IR/pwa.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/src/locales/fa-IR/settingDrawer.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/src/locales/fa-IR/settings.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/src/locales/id-ID.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/src/locales/id-ID/component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/src/locales/id-ID/globalHeader.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/src/locales/id-ID/menu.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/src/locales/id-ID/pages.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/src/locales/id-ID/pwa.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/src/locales/id-ID/settingDrawer.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/src/locales/id-ID/settings.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/src/locales/ja-JP.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/src/locales/ja-JP/component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/src/locales/ja-JP/globalHeader.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/src/locales/ja-JP/menu.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/src/locales/ja-JP/pages.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/src/locales/ja-JP/pwa.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/src/locales/ja-JP/settingDrawer.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/src/locales/ja-JP/settings.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/src/locales/pt-BR.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/src/locales/pt-BR/component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/src/locales/pt-BR/globalHeader.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/src/locales/pt-BR/menu.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/src/locales/pt-BR/pages.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/src/locales/pt-BR/pwa.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/src/locales/pt-BR/settingDrawer.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/src/locales/pt-BR/settings.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/src/locales/zh-CN.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/src/locales/zh-CN/component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/src/locales/zh-CN/globalHeader.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/src/locales/zh-CN/menu.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/src/locales/zh-CN/pages.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/src/locales/zh-CN/pwa.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/src/locales/zh-CN/settingDrawer.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/src/locales/zh-CN/settings.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/src/locales/zh-TW.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/src/locales/zh-TW/component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/src/locales/zh-TW/globalHeader.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/src/locales/zh-TW/menu.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/src/locales/zh-TW/pages.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/src/locales/zh-TW/pwa.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/src/locales/zh-TW/settingDrawer.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/src/locales/zh-TW/settings.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/src/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/src/pages/404.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/src/pages/Admin.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/src/pages/TableList/components/UpdateForm.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/src/pages/TableList/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/src/pages/User/Login/__snapshots__/login.test.tsx.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/src/pages/User/Login/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/src/pages/User/Login/login.test.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/src/pages/Welcome.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/src/requestErrorConfig.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/src/service-worker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/src/services/ant-design-pro/api.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/src/services/ant-design-pro/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/src/services/ant-design-pro/login.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/src/services/ant-design-pro/typings.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/src/services/swagger/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/src/services/swagger/pet.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/src/services/swagger/store.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/src/services/swagger/typings.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/src/services/swagger/user.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/src/typings.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/tests/setupTests.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/types/cache/cache.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/types/cache/login.cache.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/types/cache/mock/login.mock.cache.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/types/cache/mock/mock.cache.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ant-demo-simple/types/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-backend-master/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-backend-master/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-backend-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-backend-master/doc/.yuanchuang" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-backend-master/doc/img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-backend-master/doc/加入编程导航.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-backend-master/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-backend-master/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-backend-master/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-backend-master/sql/.author" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-backend-master/sql/create_table.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-backend-master/src/main/java/com/yupi/yupao/MyApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-backend-master/src/main/java/com/yupi/yupao/common/BaseResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-backend-master/src/main/java/com/yupi/yupao/common/DeleteRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-backend-master/src/main/java/com/yupi/yupao/common/ErrorCode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-backend-master/src/main/java/com/yupi/yupao/common/PageRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-backend-master/src/main/java/com/yupi/yupao/common/ResultUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-backend-master/src/main/java/com/yupi/yupao/common/请尊重原创" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-backend-master/src/main/java/com/yupi/yupao/config/MybatisPlusConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-backend-master/src/main/java/com/yupi/yupao/config/RedisTemplateConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-backend-master/src/main/java/com/yupi/yupao/config/RedissonConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-backend-master/src/main/java/com/yupi/yupao/config/SwaggerConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-backend-master/src/main/java/com/yupi/yupao/config/WebMvcConfg.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-backend-master/src/main/java/com/yupi/yupao/constant/UserConstant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-backend-master/src/main/java/com/yupi/yupao/controller/TeamController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-backend-master/src/main/java/com/yupi/yupao/controller/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-backend-master/src/main/java/com/yupi/yupao/exception/BusinessException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-backend-master/src/main/java/com/yupi/yupao/exception/GlobalExceptionHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-backend-master/src/main/java/com/yupi/yupao/job/PreCacheJob.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-backend-master/src/main/java/com/yupi/yupao/mapper/TeamMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-backend-master/src/main/java/com/yupi/yupao/mapper/UserMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-backend-master/src/main/java/com/yupi/yupao/mapper/UserTeamMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-backend-master/src/main/java/com/yupi/yupao/model/domain/Team.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-backend-master/src/main/java/com/yupi/yupao/model/domain/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-backend-master/src/main/java/com/yupi/yupao/model/domain/UserTeam.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-backend-master/src/main/java/com/yupi/yupao/model/dto/TeamQuery.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-backend-master/src/main/java/com/yupi/yupao/model/enums/TeamStatusEnum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-backend-master/src/main/java/com/yupi/yupao/model/request/TeamAddRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-backend-master/src/main/java/com/yupi/yupao/model/request/TeamJoinRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-backend-master/src/main/java/com/yupi/yupao/model/request/TeamQuitRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-backend-master/src/main/java/com/yupi/yupao/model/request/TeamUpdateRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-backend-master/src/main/java/com/yupi/yupao/model/request/UserLoginRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-backend-master/src/main/java/com/yupi/yupao/model/request/UserRegisterRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-backend-master/src/main/java/com/yupi/yupao/model/vo/TeamUserVO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-backend-master/src/main/java/com/yupi/yupao/model/vo/UserVO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-backend-master/src/main/java/com/yupi/yupao/once/importuser/ImportExcel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-backend-master/src/main/java/com/yupi/yupao/once/importuser/ImportXingQiuUser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-backend-master/src/main/java/com/yupi/yupao/once/importuser/InsertUsers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-backend-master/src/main/java/com/yupi/yupao/once/importuser/TableListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-backend-master/src/main/java/com/yupi/yupao/once/importuser/XingQiuTableUserInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-backend-master/src/main/java/com/yupi/yupao/service/TeamService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-backend-master/src/main/java/com/yupi/yupao/service/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-backend-master/src/main/java/com/yupi/yupao/service/UserTeamService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-backend-master/src/main/java/com/yupi/yupao/service/impl/TeamServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-backend-master/src/main/java/com/yupi/yupao/service/impl/UserServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-backend-master/src/main/java/com/yupi/yupao/service/impl/UserTeamServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-backend-master/src/main/java/com/yupi/yupao/utils/AlgorithmUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-backend-master/src/main/resources/application-prod.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-backend-master/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-backend-master/src/main/resources/banner.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-backend-master/src/main/resources/mapper/TeamMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-backend-master/src/main/resources/mapper/UserMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-backend-master/src/main/resources/mapper/UserTeamMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-backend-master/src/main/resources/prodExcel.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-backend-master/src/main/resources/testExcel.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-backend-master/src/main/resources/请尊重原创" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-backend-master/src/test/.copyright" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-backend-master/src/test/java/com/yupi/yupao/MyApplicationTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-backend-master/src/test/java/com/yupi/yupao/service/AlgorithmUtilsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-backend-master/src/test/java/com/yupi/yupao/service/InsertUsersTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-backend-master/src/test/java/com/yupi/yupao/service/RedisTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-backend-master/src/test/java/com/yupi/yupao/service/RedissonTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-backend-master/src/test/java/com/yupi/yupao/service/UserServiceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-backend-master/保护知识，尊重原创" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-frontend-master/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-frontend-master/.vscode/extensions.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-frontend-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-frontend-master/global.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-frontend-master/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-frontend-master/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-frontend-master/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-frontend-master/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-frontend-master/src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-frontend-master/src/assets/ikun.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-frontend-master/src/assets/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-frontend-master/src/components/TeamCardList.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-frontend-master/src/components/UserCardList.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-frontend-master/src/config/route.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-frontend-master/src/constants/team.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-frontend-master/src/env.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-frontend-master/src/layouts/BasicLayout.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-frontend-master/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-frontend-master/src/models/team.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-frontend-master/src/models/user.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-frontend-master/src/pages/Index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-frontend-master/src/pages/SearchPage.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-frontend-master/src/pages/SearchResultPage.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-frontend-master/src/pages/TeamAddPage.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-frontend-master/src/pages/TeamPage.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-frontend-master/src/pages/TeamUpdatePage.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-frontend-master/src/pages/UserEditPage.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-frontend-master/src/pages/UserLoginPage.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-frontend-master/src/pages/UserPage.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-frontend-master/src/pages/UserTeamCreatePage.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-frontend-master/src/pages/UserTeamJoinPage.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-frontend-master/src/pages/UserUpdatePage.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-frontend-master/src/plugins/myAxios.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-frontend-master/src/services/user.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-frontend-master/src/states/user.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-frontend-master/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-frontend-master/tsconfig.node.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-frontend-master/vite.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../partner-frontend-master/yarn.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/p1/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/p1/Test1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/untitled.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.copyright" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/.copyright" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/img_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/img_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/加入编程导航.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql/.author" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql/create_table.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yupi/usercenter/UserCenterApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yupi/usercenter/common/BaseResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yupi/usercenter/common/ErrorCode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yupi/usercenter/common/ResultUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yupi/usercenter/contant/UserConstant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yupi/usercenter/controller/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yupi/usercenter/exception/BusinessException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yupi/usercenter/exception/GlobalExceptionHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yupi/usercenter/mapper/UserMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yupi/usercenter/model/domain/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yupi/usercenter/model/domain/request/UserLoginRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yupi/usercenter/model/domain/request/UserRegisterRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yupi/usercenter/service/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/yupi/usercenter/service/impl/UserServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application-prod.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mapper/UserMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/yupi/usercenter/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/yupi/usercenter/UserCenterApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/yupi/usercenter/service/UserServiceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/.eslintignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/.eslintrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/.husky/commit-msg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/.husky/pre-commit" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/.prettierignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/.prettierrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/config/config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/config/defaultSettings.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/config/oneapi.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/config/proxy.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/config/routes.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/jest.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/jsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/mock/listTableList.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/mock/notices.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/mock/requestRecord.mock.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/mock/route.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/mock/user.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/pnpm-lock.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/public/CNAME" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/public/icons/icon-128x128.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/public/icons/icon-192x192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/public/icons/icon-512x512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/public/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/public/pro_icon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/public/scripts/loading.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/src/access.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/src/app.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/src/components/Footer/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/src/components/HeaderDropdown/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/src/components/RightContent/AvatarDropdown.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/src/components/RightContent/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/src/components/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/src/constants/pic.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/src/global.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/src/global.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/src/locales/bn-BD.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/src/locales/bn-BD/component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/src/locales/bn-BD/globalHeader.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/src/locales/bn-BD/menu.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/src/locales/bn-BD/pages.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/src/locales/bn-BD/pwa.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/src/locales/bn-BD/settingDrawer.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/src/locales/bn-BD/settings.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/src/locales/en-US.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/src/locales/en-US/component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/src/locales/en-US/globalHeader.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/src/locales/en-US/menu.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/src/locales/en-US/pages.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/src/locales/en-US/pwa.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/src/locales/en-US/settingDrawer.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/src/locales/en-US/settings.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/src/locales/fa-IR.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/src/locales/fa-IR/component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/src/locales/fa-IR/globalHeader.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/src/locales/fa-IR/menu.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/src/locales/fa-IR/pages.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/src/locales/fa-IR/pwa.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/src/locales/fa-IR/settingDrawer.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/src/locales/fa-IR/settings.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/src/locales/id-ID.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/src/locales/id-ID/component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/src/locales/id-ID/globalHeader.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/src/locales/id-ID/menu.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/src/locales/id-ID/pages.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/src/locales/id-ID/pwa.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/src/locales/id-ID/settingDrawer.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/src/locales/id-ID/settings.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/src/locales/ja-JP.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/src/locales/ja-JP/component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/src/locales/ja-JP/globalHeader.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/src/locales/ja-JP/menu.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/src/locales/ja-JP/pages.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/src/locales/ja-JP/pwa.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/src/locales/ja-JP/settingDrawer.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/src/locales/ja-JP/settings.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/src/locales/pt-BR.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/src/locales/pt-BR/component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/src/locales/pt-BR/globalHeader.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/src/locales/pt-BR/menu.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/src/locales/pt-BR/pages.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/src/locales/pt-BR/pwa.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/src/locales/pt-BR/settingDrawer.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/src/locales/pt-BR/settings.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/src/locales/zh-CN.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/src/locales/zh-CN/component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/src/locales/zh-CN/globalHeader.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/src/locales/zh-CN/menu.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/src/locales/zh-CN/pages.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/src/locales/zh-CN/pwa.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/src/locales/zh-CN/settingDrawer.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/src/locales/zh-CN/settings.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/src/locales/zh-TW.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/src/locales/zh-TW/component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/src/locales/zh-TW/globalHeader.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/src/locales/zh-TW/menu.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/src/locales/zh-TW/pages.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/src/locales/zh-TW/pwa.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/src/locales/zh-TW/settingDrawer.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/src/locales/zh-TW/settings.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/src/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/src/pages/404.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/src/pages/Admin.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/src/pages/TableList/components/UpdateForm.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/src/pages/TableList/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/src/pages/User/Login/__snapshots__/login.test.tsx.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/src/pages/User/Login/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/src/pages/User/Login/login.test.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/src/pages/User/Register/index.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/src/pages/User/Register/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/src/pages/Welcome.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/src/requestErrorConfig.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/src/service-worker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/src/services/ant-design-pro/api.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/src/services/ant-design-pro/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/src/services/ant-design-pro/login.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/src/services/ant-design-pro/typings.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/src/services/swagger/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/src/services/swagger/pet.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/src/services/swagger/store.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/src/services/swagger/typings.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/src/services/swagger/user.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/src/typings.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/tests/setupTests.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/types/cache/cache.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/types/cache/login.cache.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/types/cache/mock/login.mock.cache.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/types/cache/mock/mock.cache.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/myapp/types/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/user-center-frontend-master/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/user-center-frontend-master/.eslintignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/user-center-frontend-master/.eslintrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/user-center-frontend-master/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/user-center-frontend-master/.prettierignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/user-center-frontend-master/.prettierrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/user-center-frontend-master/.stylelintrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/user-center-frontend-master/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/user-center-frontend-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/user-center-frontend-master/config/config.dev.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/user-center-frontend-master/config/config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/user-center-frontend-master/config/defaultSettings.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/user-center-frontend-master/config/proxy.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/user-center-frontend-master/config/routes.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/user-center-frontend-master/docker/nginx.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/user-center-frontend-master/jsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/user-center-frontend-master/mock/listTableList.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/user-center-frontend-master/mock/notices.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/user-center-frontend-master/mock/route.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/user-center-frontend-master/mock/user.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/user-center-frontend-master/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/user-center-frontend-master/public/CNAME" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/user-center-frontend-master/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/user-center-frontend-master/public/icons/icon-128x128.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/user-center-frontend-master/public/icons/icon-192x192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/user-center-frontend-master/public/icons/icon-512x512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/user-center-frontend-master/public/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/user-center-frontend-master/public/pro_icon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/user-center-frontend-master/src/access.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/user-center-frontend-master/src/app.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/user-center-frontend-master/src/components/Footer/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/user-center-frontend-master/src/components/HeaderDropdown/index.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/user-center-frontend-master/src/components/HeaderDropdown/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/user-center-frontend-master/src/components/HeaderSearch/index.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/user-center-frontend-master/src/components/HeaderSearch/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/user-center-frontend-master/src/components/NoticeIcon/NoticeIcon.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/user-center-frontend-master/src/components/NoticeIcon/NoticeList.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/user-center-frontend-master/src/components/NoticeIcon/NoticeList.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/user-center-frontend-master/src/components/NoticeIcon/index.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/user-center-frontend-master/src/components/NoticeIcon/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/user-center-frontend-master/src/components/RightContent/AvatarDropdown.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/user-center-frontend-master/src/components/RightContent/index.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/user-center-frontend-master/src/components/RightContent/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/user-center-frontend-master/src/constants/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/user-center-frontend-master/src/global.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/user-center-frontend-master/src/global.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/user-center-frontend-master/src/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/user-center-frontend-master/src/pages/404.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/user-center-frontend-master/src/pages/Admin.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/user-center-frontend-master/src/pages/Admin/UserManage/index.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/user-center-frontend-master/src/pages/Admin/UserManage/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/user-center-frontend-master/src/pages/TableList/components/UpdateForm.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/user-center-frontend-master/src/pages/TableList/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/user-center-frontend-master/src/pages/Welcome.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/user-center-frontend-master/src/pages/Welcome.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/user-center-frontend-master/src/pages/document.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/user-center-frontend-master/src/pages/user/Login/index.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/user-center-frontend-master/src/pages/user/Login/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/user-center-frontend-master/src/pages/user/Register/index.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/user-center-frontend-master/src/pages/user/Register/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/user-center-frontend-master/src/plugins/globalRequest.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/user-center-frontend-master/src/service-worker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/user-center-frontend-master/src/services/ant-design-pro/api.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/user-center-frontend-master/src/services/ant-design-pro/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/user-center-frontend-master/src/services/ant-design-pro/login.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/user-center-frontend-master/src/services/ant-design-pro/typings.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/user-center-frontend-master/src/typings.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-fe/user-center-frontend-master/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-frontend-master/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-frontend-master/.eslintignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-frontend-master/.eslintrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-frontend-master/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-frontend-master/.prettierignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-frontend-master/.prettierrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-frontend-master/.stylelintrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-frontend-master/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-frontend-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-frontend-master/config/config.dev.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-frontend-master/config/config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-frontend-master/config/defaultSettings.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-frontend-master/config/proxy.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-frontend-master/config/routes.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-frontend-master/docker/nginx.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-frontend-master/jsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-frontend-master/mock/listTableList.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-frontend-master/mock/notices.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-frontend-master/mock/route.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-frontend-master/mock/user.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-frontend-master/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-frontend-master/public/CNAME" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-frontend-master/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-frontend-master/public/icons/icon-128x128.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-frontend-master/public/icons/icon-192x192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-frontend-master/public/icons/icon-512x512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-frontend-master/public/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-frontend-master/public/pro_icon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-frontend-master/src/access.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-frontend-master/src/app.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-frontend-master/src/components/Footer/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-frontend-master/src/components/HeaderDropdown/index.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-frontend-master/src/components/HeaderDropdown/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-frontend-master/src/components/HeaderSearch/index.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-frontend-master/src/components/HeaderSearch/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-frontend-master/src/components/NoticeIcon/NoticeIcon.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-frontend-master/src/components/NoticeIcon/NoticeList.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-frontend-master/src/components/NoticeIcon/NoticeList.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-frontend-master/src/components/NoticeIcon/index.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-frontend-master/src/components/NoticeIcon/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-frontend-master/src/components/RightContent/AvatarDropdown.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-frontend-master/src/components/RightContent/index.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-frontend-master/src/components/RightContent/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-frontend-master/src/constants/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-frontend-master/src/global.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-frontend-master/src/global.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-frontend-master/src/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-frontend-master/src/pages/404.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-frontend-master/src/pages/Admin.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-frontend-master/src/pages/Admin/UserManage/index.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-frontend-master/src/pages/Admin/UserManage/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-frontend-master/src/pages/TableList/components/UpdateForm.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-frontend-master/src/pages/TableList/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-frontend-master/src/pages/Welcome.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-frontend-master/src/pages/Welcome.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-frontend-master/src/pages/document.ejs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-frontend-master/src/pages/user/Login/index.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-frontend-master/src/pages/user/Login/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-frontend-master/src/pages/user/Register/index.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-frontend-master/src/pages/user/Register/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-frontend-master/src/plugins/globalRequest.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-frontend-master/src/service-worker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-frontend-master/src/services/ant-design-pro/api.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-frontend-master/src/services/ant-design-pro/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-frontend-master/src/services/ant-design-pro/login.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-frontend-master/src/services/ant-design-pro/typings.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-frontend-master/src/typings.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center-frontend-master/tsconfig.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$USER_HOME$/codingtools/apache-maven-3.6.1" />
+        <option name="useMavenConfig" value="false" />
+        <option name="userSettingsFile" value="$USER_HOME$/codingtools/apache-maven-3.6.1/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="corretto-17" />
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2rW3MRra6P8AxJjVyjO0N2tPT0u" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Maven.user-center-backend [package].executor&quot;: &quot;Run&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Spring Boot.UserCenterApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.user-enter.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/duqingyang/Desktop/newJava/yupao/user-center-backend-master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2908046&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="user-center-backend-master" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="user-center-backend-master" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="user-enter" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="user-center-backend" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.yupi.usercenter.UserCenterApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-corretto-17.0.10-3183f394aec4-96c0d24d" />
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-322ed176" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e60bba76-2794-4c3a-ad53-5d45407b54bf" name="Changes" comment="" />
+      <created>1736660955505</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1736660955505</updated>
+      <workItem from="1736660956875" duration="3732000" />
+      <workItem from="1737013341073" duration="6386000" />
+      <workItem from="1737365387343" duration="9382000" />
+      <workItem from="1737524577681" duration="20932000" />
+      <workItem from="1739152476197" duration="231000" />
+      <workItem from="1739155809987" duration="73000" />
+      <workItem from="1739167004487" duration="18713000" />
+      <workItem from="1739414572157" duration="3961000" />
+      <workItem from="1739757730195" duration="1207000" />
+      <workItem from="1739842446419" duration="598000" />
+      <workItem from="1740102364998" duration="62000" />
+      <workItem from="1740644276096" duration="1956000" />
+      <workItem from="1747117750853" duration="2205000" />
+      <workItem from="1747619418679" duration="598000" />
+      <workItem from="1747791985309" duration="301000" />
+      <workItem from="1747814005477" duration="1245000" />
+      <workItem from="1747820894576" duration="25913000" />
+      <workItem from="1748224590042" duration="1058000" />
+    </task>
+    <task id="LOCAL-00001" summary="review and edit code">
+      <option name="closed" value="true" />
+      <created>1739326750842</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1739326750842</updated>
+    </task>
+    <task id="LOCAL-00002" summary="日常修改">
+      <option name="closed" value="true" />
+      <created>1747823812035</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1747823812035</updated>
+    </task>
+    <task id="LOCAL-00003" summary="日常修改">
+      <option name="closed" value="true" />
+      <created>1748225302965</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1748225302965</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+    <MESSAGE value="review and edit code" />
+    <MESSAGE value="日常修改" />
+    <option name="LAST_COMMIT_MESSAGE" value="日常修改" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
